@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @affira
-- 👀 I’m interested in .Net, java and python based deep learning
-- 🌱 I’m currently learning flutter, Rust and i'm studying in BSCS (final Year)
-- 💞️ I’m looking to collaborate on python based Deep leraning projects, c# or .net projects and java projects
+- 👀 I’m interested in JavaScript, .Net, java and python based projects 
+- 🌱 I’m currently learning node.js and react.
+- 💞️ I’m looking to collaborate on JavaScript based projects, c# .net projects and java projects
 - 📫 How to reach me afeerarasheed@gmail.com
 
